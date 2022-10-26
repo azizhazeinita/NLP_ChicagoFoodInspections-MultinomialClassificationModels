@@ -14,7 +14,7 @@ Chicago Data Portal - Fodd inspections of restaurants and other food establishme
   * Regular Expression (Regex)
   * Tokenization using nltk.tokenize
   * Classification Models - Multinomial:
-  * Gradient Boosting
-  * XGBoost
-  * Logistic Regression
-  * Naive Bayes
+    * Gradient Boosting
+    * XGBoost
+    * Logistic Regression
+    * Naive Bayes
